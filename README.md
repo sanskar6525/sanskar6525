@@ -13,9 +13,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/10RFvZdrCQDC-oMTsvaa0J_54IsWeZRoy/view?usp=sharing)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
