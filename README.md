@@ -15,6 +15,7 @@
 
 <h3 align="left">Blogs:</h3>
 <!-- BLOG-POST-LIST:START -->
+- [Computers are learning and we are making them learn!](https://sanskargoel6.medium.com/computers-are-learning-and-we-are-making-them-learn-390cb9d8b791?source=rss-da2a654cfa05------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
