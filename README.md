@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **sanskargoel6@gmail.com**
+<!--- 📫 How to reach me **sanskargoel6@gmail.com**--->
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/10RFvZdrCQDC-oMTsvaa0J_54IsWeZRoy/view?usp=sharing)
 
@@ -20,11 +20,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mailto:sanskargoel6@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=96&id=P7UIlhbpWzZm&format=png" alt="sanskargoel6@gmail.com" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sanskar-goel-798194186" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanskar-goel-798194186" height="30" width="40" /></a>
 <a href="https://instagram.com/sanskar16_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanskar16_" height="30" width="40" /></a>
 <a href="https://medium.com/@sanskargoel6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sanskargoel6" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sanks_5170" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanks_5170" height="30" width="40" /></a>
+<a href="mailto:sanskargoel6@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=96&id=P7UIlhbpWzZm&format=png" alt="sanskargoel6@gmail.com" height="30" width="40" /></a>
 </p>
 
  
