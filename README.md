@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sanskar Goel</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A passionate software engineer from India</h3>
 
-- 🔭 I’m currently working at **Hewlett Packard Enterprises**
+- 🔭 I’m currently working at **Saison Omni** as **Software Engineer 1** for building a robust Co-lending platform
+  
+- 🔭 Had the opportunity of working at some great organizations including **Hewlett Packard Enterprises** and **ISRO**
 
 - 🌱 I’m currently learning **Spring Framework, Apache Kafka, JavaScript, and Core Java**
 
