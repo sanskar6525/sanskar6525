@@ -13,7 +13,7 @@
 
 <!--- 📫 How to reach me **sanskargoel6@gmail.com**--->
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/14CipYVdojVaUGaX-iG-MTkhb8eUA7CWQ/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/16m8sB6PQm-klMPTPg3Fp9I_dx6XpWVij/view?usp=sharing)
 
 <h3 align="left">Blogs:</h3>
 <!-- BLOG-POST-LIST:START -->
